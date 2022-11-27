@@ -1,0 +1,6 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\DecoratorPattern\ClassLibDrink\bin\Debug\ClassLibDrink.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\DecoratorPattern\ClassLibDrink\bin\Debug\ClassLibDrink.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\DecoratorPattern\ClassLibDrink\obj\Debug\ClassLibDrink.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\DecoratorPattern\ClassLibDrink\obj\Debug\ClassLibDrink.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\DecoratorPattern\ClassLibDrink\obj\Debug\ClassLibDrink.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\DecoratorPattern\ClassLibDrink\obj\Debug\ClassLibDrink.pdb

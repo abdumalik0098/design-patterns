@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TemplateMethod.App/1.0.0": {
+        "dependencies": {
+          "TemplateMethod.Lib": "1.0.0"
+        },
+        "runtime": {
+          "TemplateMethod.App.dll": {}
+        }
+      },
+      "TemplateMethod.Lib/1.0.0": {
+        "runtime": {
+          "TemplateMethod.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TemplateMethod.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TemplateMethod.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

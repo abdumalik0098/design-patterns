@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Iterator.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Iterator.Lib": "1.0.0"
+        },
+        "runtime": {
+          "Iterator.ConsoleApp.dll": {}
+        }
+      },
+      "Iterator.Lib/1.0.0": {
+        "runtime": {
+          "Iterator.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Iterator.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Iterator.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

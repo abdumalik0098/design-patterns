@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyzeTextsSystem", "AnalyzeTextsSystem\AnalyzeTextsSystem.csproj", "{4936F12B-3821-4064-AF41-9E7631FF7EB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyzeLib", "AnalyzeLib\AnalyzeLib.csproj", "{9AE88D82-440A-4DA8-942E-03C54B44EEAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4936F12B-3821-4064-AF41-9E7631FF7EB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4936F12B-3821-4064-AF41-9E7631FF7EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4936F12B-3821-4064-AF41-9E7631FF7EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4936F12B-3821-4064-AF41-9E7631FF7EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AE88D82-440A-4DA8-942E-03C54B44EEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE88D82-440A-4DA8-942E-03C54B44EEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE88D82-440A-4DA8-942E-03C54B44EEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE88D82-440A-4DA8-942E-03C54B44EEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80370D78-403E-499D-8987-B6E691757D49}
+	EndGlobalSection
+EndGlobal

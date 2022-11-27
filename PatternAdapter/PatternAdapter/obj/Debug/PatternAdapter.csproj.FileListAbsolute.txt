@@ -1,0 +1,11 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\PatternAdapter\PatternAdapter\bin\Debug\PatternAdapter.exe.config
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\PatternAdapter\PatternAdapter\bin\Debug\PatternAdapter.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\PatternAdapter\PatternAdapter\bin\Debug\PatternAdapter.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\PatternAdapter\PatternAdapter\bin\Debug\ClassLibAdapter.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\PatternAdapter\PatternAdapter\bin\Debug\ClassLibAdapter.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\PatternAdapter\PatternAdapter\obj\Debug\PatternAdapter.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\PatternAdapter\PatternAdapter\obj\Debug\PatternAdapter.csproj.SuggestedBindingRedirects.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\PatternAdapter\PatternAdapter\obj\Debug\PatternAdapter.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\PatternAdapter\PatternAdapter\obj\Debug\PatternAdapter.csproj.CopyComplete
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\PatternAdapter\PatternAdapter\obj\Debug\PatternAdapter.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\PatternAdapter\PatternAdapter\obj\Debug\PatternAdapter.pdb

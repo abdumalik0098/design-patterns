@@ -1,0 +1,11 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\DecoratorPattern\DrinkApp\bin\Debug\DrinkApp.exe.config
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\DecoratorPattern\DrinkApp\bin\Debug\DrinkApp.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\DecoratorPattern\DrinkApp\bin\Debug\DrinkApp.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\DecoratorPattern\DrinkApp\bin\Debug\ClassLibDrink.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\DecoratorPattern\DrinkApp\bin\Debug\ClassLibDrink.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\DecoratorPattern\DrinkApp\obj\Debug\DrinkApp.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\DecoratorPattern\DrinkApp\obj\Debug\DrinkApp.csproj.SuggestedBindingRedirects.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\DecoratorPattern\DrinkApp\obj\Debug\DrinkApp.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\DecoratorPattern\DrinkApp\obj\Debug\DrinkApp.csproj.CopyComplete
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\DecoratorPattern\DrinkApp\obj\Debug\DrinkApp.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\DecoratorPattern\DrinkApp\obj\Debug\DrinkApp.pdb

@@ -1,0 +1,15 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\Nasledovanie\bin\Debug\net6.0\Nasledovanie.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\Nasledovanie\bin\Debug\net6.0\Nasledovanie.deps.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\Nasledovanie\bin\Debug\net6.0\Nasledovanie.runtimeconfig.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\Nasledovanie\bin\Debug\net6.0\Nasledovanie.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\Nasledovanie\bin\Debug\net6.0\Nasledovanie.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\Nasledovanie\obj\Debug\net6.0\Nasledovanie.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\Nasledovanie\obj\Debug\net6.0\Nasledovanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\Nasledovanie\obj\Debug\net6.0\Nasledovanie.AssemblyInfoInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\Nasledovanie\obj\Debug\net6.0\Nasledovanie.AssemblyInfo.cs
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\Nasledovanie\obj\Debug\net6.0\Nasledovanie.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\Nasledovanie\obj\Debug\net6.0\Nasledovanie.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\Nasledovanie\obj\Debug\net6.0\refint\Nasledovanie.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\Nasledovanie\obj\Debug\net6.0\Nasledovanie.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\Nasledovanie\obj\Debug\net6.0\Nasledovanie.genruntimeconfig.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\Nasledovanie\obj\Debug\net6.0\ref\Nasledovanie.dll

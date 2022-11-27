@@ -1,0 +1,6 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\PatternAdapter\ClassLibAdapter\bin\Debug\ClassLibAdapter.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\PatternAdapter\ClassLibAdapter\bin\Debug\ClassLibAdapter.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\PatternAdapter\ClassLibAdapter\obj\Debug\ClassLibAdapter.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\PatternAdapter\ClassLibAdapter\obj\Debug\ClassLibAdapter.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\PatternAdapter\ClassLibAdapter\obj\Debug\ClassLibAdapter.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\PatternAdapter\ClassLibAdapter\obj\Debug\ClassLibAdapter.pdb

@@ -1,0 +1,15 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\InterfaceApp\bin\Debug\net6.0\InterfaceApp.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\InterfaceApp\bin\Debug\net6.0\InterfaceApp.deps.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\InterfaceApp\bin\Debug\net6.0\InterfaceApp.runtimeconfig.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\InterfaceApp\bin\Debug\net6.0\InterfaceApp.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\InterfaceApp\bin\Debug\net6.0\InterfaceApp.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\InterfaceApp\obj\Debug\net6.0\InterfaceApp.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\InterfaceApp\obj\Debug\net6.0\InterfaceApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\InterfaceApp\obj\Debug\net6.0\InterfaceApp.AssemblyInfoInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\InterfaceApp\obj\Debug\net6.0\InterfaceApp.AssemblyInfo.cs
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\InterfaceApp\obj\Debug\net6.0\InterfaceApp.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\InterfaceApp\obj\Debug\net6.0\InterfaceApp.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\InterfaceApp\obj\Debug\net6.0\refint\InterfaceApp.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\InterfaceApp\obj\Debug\net6.0\InterfaceApp.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\InterfaceApp\obj\Debug\net6.0\InterfaceApp.genruntimeconfig.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\RelationInClasses\InterfaceApp\obj\Debug\net6.0\ref\InterfaceApp.dll

@@ -1,0 +1,6 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\AnalyzeTextsSystem\AnalyzeLib\bin\Debug\AnalyzeLib.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\AnalyzeTextsSystem\AnalyzeLib\bin\Debug\AnalyzeLib.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\AnalyzeTextsSystem\AnalyzeLib\obj\Debug\AnalyzeLib.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\AnalyzeTextsSystem\AnalyzeLib\obj\Debug\AnalyzeLib.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\AnalyzeTextsSystem\AnalyzeLib\obj\Debug\AnalyzeLib.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\AnalyzeTextsSystem\AnalyzeLib\obj\Debug\AnalyzeLib.pdb

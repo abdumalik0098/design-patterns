@@ -1,0 +1,12 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\Iterator.Lib\Iterator.Lib\bin\Debug\net6.0\Iterator.Lib.deps.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\Iterator.Lib\Iterator.Lib\bin\Debug\net6.0\Iterator.Lib.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\Iterator.Lib\Iterator.Lib\bin\Debug\net6.0\Iterator.Lib.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\Iterator.Lib\Iterator.Lib\obj\Debug\net6.0\Iterator.Lib.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\Iterator.Lib\Iterator.Lib\obj\Debug\net6.0\Iterator.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\Iterator.Lib\Iterator.Lib\obj\Debug\net6.0\Iterator.Lib.AssemblyInfoInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\Iterator.Lib\Iterator.Lib\obj\Debug\net6.0\Iterator.Lib.AssemblyInfo.cs
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\Iterator.Lib\Iterator.Lib\obj\Debug\net6.0\Iterator.Lib.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\Iterator.Lib\Iterator.Lib\obj\Debug\net6.0\Iterator.Lib.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\Iterator.Lib\Iterator.Lib\obj\Debug\net6.0\refint\Iterator.Lib.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\Iterator.Lib\Iterator.Lib\obj\Debug\net6.0\Iterator.Lib.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\Iterator.Lib\Iterator.Lib\obj\Debug\net6.0\ref\Iterator.Lib.dll

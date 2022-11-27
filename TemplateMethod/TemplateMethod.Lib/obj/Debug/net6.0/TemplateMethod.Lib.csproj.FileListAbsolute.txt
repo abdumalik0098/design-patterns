@@ -1,0 +1,12 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\TemplateMethod\TemplateMethod.Lib\bin\Debug\net6.0\TemplateMethod.Lib.deps.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\TemplateMethod\TemplateMethod.Lib\bin\Debug\net6.0\TemplateMethod.Lib.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\TemplateMethod\TemplateMethod.Lib\bin\Debug\net6.0\TemplateMethod.Lib.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\TemplateMethod\TemplateMethod.Lib\obj\Debug\net6.0\TemplateMethod.Lib.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\TemplateMethod\TemplateMethod.Lib\obj\Debug\net6.0\TemplateMethod.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\TemplateMethod\TemplateMethod.Lib\obj\Debug\net6.0\TemplateMethod.Lib.AssemblyInfoInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\TemplateMethod\TemplateMethod.Lib\obj\Debug\net6.0\TemplateMethod.Lib.AssemblyInfo.cs
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\TemplateMethod\TemplateMethod.Lib\obj\Debug\net6.0\TemplateMethod.Lib.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\TemplateMethod\TemplateMethod.Lib\obj\Debug\net6.0\TemplateMethod.Lib.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\TemplateMethod\TemplateMethod.Lib\obj\Debug\net6.0\refint\TemplateMethod.Lib.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\TemplateMethod\TemplateMethod.Lib\obj\Debug\net6.0\TemplateMethod.Lib.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\TemplateMethod\TemplateMethod.Lib\obj\Debug\net6.0\ref\TemplateMethod.Lib.dll

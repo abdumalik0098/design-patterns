@@ -1,0 +1,11 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\AnalyzeTextsSystem\AnalyzeTextsSystem\bin\Debug\AnalyzeTextsSystem.exe.config
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\AnalyzeTextsSystem\AnalyzeTextsSystem\bin\Debug\AnalyzeTextsSystem.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\AnalyzeTextsSystem\AnalyzeTextsSystem\bin\Debug\AnalyzeTextsSystem.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\AnalyzeTextsSystem\AnalyzeTextsSystem\bin\Debug\AnalyzeLib.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\AnalyzeTextsSystem\AnalyzeTextsSystem\bin\Debug\AnalyzeLib.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\AnalyzeTextsSystem\AnalyzeTextsSystem\obj\Debug\AnalyzeTextsSystem.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\AnalyzeTextsSystem\AnalyzeTextsSystem\obj\Debug\AnalyzeTextsSystem.csproj.SuggestedBindingRedirects.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\AnalyzeTextsSystem\AnalyzeTextsSystem\obj\Debug\AnalyzeTextsSystem.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\AnalyzeTextsSystem\AnalyzeTextsSystem\obj\Debug\AnalyzeTextsSystem.csproj.CopyComplete
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\AnalyzeTextsSystem\AnalyzeTextsSystem\obj\Debug\AnalyzeTextsSystem.exe
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\AnalyzeTextsSystem\AnalyzeTextsSystem\obj\Debug\AnalyzeTextsSystem.pdb

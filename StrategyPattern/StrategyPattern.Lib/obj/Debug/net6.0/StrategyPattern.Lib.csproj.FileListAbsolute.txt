@@ -1,0 +1,12 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\StrategyPattern\StrategyPattern.Lib\bin\Debug\net6.0\StrategyPattern.Lib.deps.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\StrategyPattern\StrategyPattern.Lib\bin\Debug\net6.0\StrategyPattern.Lib.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\StrategyPattern\StrategyPattern.Lib\bin\Debug\net6.0\StrategyPattern.Lib.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\StrategyPattern\StrategyPattern.Lib\obj\Debug\net6.0\StrategyPattern.Lib.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\StrategyPattern\StrategyPattern.Lib\obj\Debug\net6.0\StrategyPattern.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\StrategyPattern\StrategyPattern.Lib\obj\Debug\net6.0\StrategyPattern.Lib.AssemblyInfoInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\StrategyPattern\StrategyPattern.Lib\obj\Debug\net6.0\StrategyPattern.Lib.AssemblyInfo.cs
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\StrategyPattern\StrategyPattern.Lib\obj\Debug\net6.0\StrategyPattern.Lib.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\StrategyPattern\StrategyPattern.Lib\obj\Debug\net6.0\StrategyPattern.Lib.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\StrategyPattern\StrategyPattern.Lib\obj\Debug\net6.0\refint\StrategyPattern.Lib.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\StrategyPattern\StrategyPattern.Lib\obj\Debug\net6.0\StrategyPattern.Lib.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\Patterns\StrategyPattern\StrategyPattern.Lib\obj\Debug\net6.0\ref\StrategyPattern.Lib.dll

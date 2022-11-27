@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StrategyPattern.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "StrategyPattern.Lib": "1.0.0"
+        },
+        "runtime": {
+          "StrategyPattern.ConsoleApp.dll": {}
+        }
+      },
+      "StrategyPattern.Lib/1.0.0": {
+        "runtime": {
+          "StrategyPattern.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StrategyPattern.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StrategyPattern.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

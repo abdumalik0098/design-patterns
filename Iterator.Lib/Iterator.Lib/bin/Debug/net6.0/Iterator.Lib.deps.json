@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Iterator.Lib/1.0.0": {
+        "runtime": {
+          "Iterator.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Iterator.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
